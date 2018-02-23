@@ -3,6 +3,14 @@ go-test-mysqld
 
 [![Build Status](https://travis-ci.org/lestrrat/go-test-mysqld.png?branch=master)](https://travis-ci.org/lestrrat/go-test-mysqld)
 
+[![GoDoc](https://godoc.org/github.com/lestrrat/go-test-mysqld?status.svg)](https://godoc.org/github.com/lestrrat/go-test-mysqld)
+
+
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/test-mysqld](https://github.com/lestrrat-go/test-mysqld). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
+
 Create real MySQL server instance for testing
 
 To install, simply issue a `go get`:
